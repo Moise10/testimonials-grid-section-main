@@ -1,0 +1,19 @@
+.section-grid{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  column-count: 3;
+}
+
+.img-block{
+  display: flex;
+  align-items: center;
+}
+
+.img{
+  border-radius: 100%;
+}
